@@ -6,3 +6,5 @@ In this project i have used OpenWeatherMap API which is freely available. Just t
 I have also inserted the respective images after modification, which i have mentioned as version 1, version 2 and so on
 
 Last edited: 13th June 2020 at 2:10pm
+
+Visit the demo at https://sanjaytalyaofficial.github.io/weather-app-using-javascript/
