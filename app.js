@@ -30,5 +30,5 @@ button.addEventListener('click', function() {
 
 
     //if the above doesnot work for some you can put the below code.
-    .catch(err => alert("City name not found / available just yet"))
+    .catch(err => alert("City name not found "))
 })
