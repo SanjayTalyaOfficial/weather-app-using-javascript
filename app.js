@@ -20,7 +20,7 @@ button.addEventListener('click', function() {
         var descValue = data['weather'][0]['description'];
 
         name.innerHTML = nameValue; // the name of the city entered
-        temp.innerHTML = tempValue+" F"; // the temperature value in Farenheight
+        temp.innerHTML = tempValue+" Kelvin"; // the temperature value in Farenheight
         desc.innerHTML = descValue; // the description like scattered clouds or so
 
     })
